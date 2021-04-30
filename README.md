@@ -1,6 +1,6 @@
 # Advice Imitation & Reuse
 
-This repository contains the source code for the advice imitation algorithm proposed in the paper titled ["Learning on a Budget via Teacher Imitation"](https://arxiv.org/abs/2104.08440) which is an extended version of the algorithm presented in ["Action Advising with Advice Imitation in Deep Reinforcement Learning"](https://arxiv.org/abs/2104.08441) (["codes"](https://github.com/ercumentilhan/naive-advice-imitation)).
+This repository contains the source code for the advice imitation algorithm proposed in the paper titled ["Learning on a Budget via Teacher Imitation"](https://arxiv.org/abs/2104.08440) which is an extended version of the algorithm presented in ["Action Advising with Advice Imitation in Deep Reinforcement Learning"](https://arxiv.org/abs/2104.08441) ([codes](https://github.com/ercumentilhan/naive-advice-imitation)).
 
 ## Requirements
 

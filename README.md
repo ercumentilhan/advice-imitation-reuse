@@ -62,4 +62,4 @@ These are the configuration sets that are already defined in the file (ID: Short
 - **5000:** AR (Advice reuse)
 - **6000:** AR+A (AR with automatic threshold tuning)
 - **7000:** AR+A+E (AR+A with unrestricted reuse procedure)
-- **8000:** AIR (Advice Imitation & Reuse, AR+A+E is enhanced with the uncertainty-based advice collection strategy)
+- **8000:** AIR (Advice Imitation & Reuse, AR+A+E with the uncertainty-based advice collection strategy)

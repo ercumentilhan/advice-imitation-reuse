@@ -8,7 +8,7 @@ def generate_config():
     config[0]['run-id'] = None
     config[0]['process-index'] = 0
     config[0]['machine-name'] = 'NONE'
-    config[0]['n-training-frames'] = int(100e3)  # int(5e6)
+    config[0]['n-training-frames'] = int(5e6)
     config[0]['n-evaluation-trials'] = 10
     config[0]['evaluation-period'] = int(50e3)
     config[0]['evaluation-visualization-period'] = 5
